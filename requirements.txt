@@ -1,0 +1,12 @@
+numpy==1.16.2
+tensorflow-gpu==1.13.2
+keras==2.2.4
+tqdm
+matplotlib
+Pillow
+pandas
+opencv-python
+scikit-learn
+scikit-image
+imutils
+imageio
